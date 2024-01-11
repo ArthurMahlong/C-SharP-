@@ -1,0 +1,16 @@
+D:\MindWorx\C#\25. Intro_to_GUI\bin\Debug\net8.0-windows\25. Intro_to_GUI.exe
+D:\MindWorx\C#\25. Intro_to_GUI\bin\Debug\net8.0-windows\25. Intro_to_GUI.deps.json
+D:\MindWorx\C#\25. Intro_to_GUI\bin\Debug\net8.0-windows\25. Intro_to_GUI.runtimeconfig.json
+D:\MindWorx\C#\25. Intro_to_GUI\bin\Debug\net8.0-windows\25. Intro_to_GUI.dll
+D:\MindWorx\C#\25. Intro_to_GUI\bin\Debug\net8.0-windows\25. Intro_to_GUI.pdb
+D:\MindWorx\C#\25. Intro_to_GUI\obj\Debug\net8.0-windows\_25._Intro_to_GUI.Form1.resources
+D:\MindWorx\C#\25. Intro_to_GUI\obj\Debug\net8.0-windows\25. Intro_to_GUI.csproj.GenerateResource.cache
+D:\MindWorx\C#\25. Intro_to_GUI\obj\Debug\net8.0-windows\25. Intro_to_GUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\MindWorx\C#\25. Intro_to_GUI\obj\Debug\net8.0-windows\25. Intro_to_GUI.AssemblyInfoInputs.cache
+D:\MindWorx\C#\25. Intro_to_GUI\obj\Debug\net8.0-windows\25. Intro_to_GUI.AssemblyInfo.cs
+D:\MindWorx\C#\25. Intro_to_GUI\obj\Debug\net8.0-windows\25. Intro_to_GUI.csproj.CoreCompileInputs.cache
+D:\MindWorx\C#\25. Intro_to_GUI\obj\Debug\net8.0-windows\25. Intro_to_GUI.dll
+D:\MindWorx\C#\25. Intro_to_GUI\obj\Debug\net8.0-windows\refint\25. Intro_to_GUI.dll
+D:\MindWorx\C#\25. Intro_to_GUI\obj\Debug\net8.0-windows\25. Intro_to_GUI.pdb
+D:\MindWorx\C#\25. Intro_to_GUI\obj\Debug\net8.0-windows\25. Intro_to_GUI.genruntimeconfig.cache
+D:\MindWorx\C#\25. Intro_to_GUI\obj\Debug\net8.0-windows\ref\25. Intro_to_GUI.dll
