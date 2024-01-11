@@ -1,0 +1,7 @@
+D:\MindWorx\C#\1. Hello_World\bin\Debug\_1.Hello_World.exe.config
+D:\MindWorx\C#\1. Hello_World\bin\Debug\_1.Hello_World.exe
+D:\MindWorx\C#\1. Hello_World\bin\Debug\_1.Hello_World.pdb
+D:\MindWorx\C#\1. Hello_World\obj\Debug\1. Hello_World.csproj.AssemblyReference.cache
+D:\MindWorx\C#\1. Hello_World\obj\Debug\1. Hello_World.csproj.CoreCompileInputs.cache
+D:\MindWorx\C#\1. Hello_World\obj\Debug\_1.Hello_World.exe
+D:\MindWorx\C#\1. Hello_World\obj\Debug\_1.Hello_World.pdb

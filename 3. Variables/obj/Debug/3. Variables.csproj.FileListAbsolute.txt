@@ -1,0 +1,7 @@
+D:\MindWorx\C#\3. Variables\bin\Debug\_3.Variables.exe.config
+D:\MindWorx\C#\3. Variables\bin\Debug\_3.Variables.exe
+D:\MindWorx\C#\3. Variables\bin\Debug\_3.Variables.pdb
+D:\MindWorx\C#\3. Variables\obj\Debug\3. Variables.csproj.AssemblyReference.cache
+D:\MindWorx\C#\3. Variables\obj\Debug\3. Variables.csproj.CoreCompileInputs.cache
+D:\MindWorx\C#\3. Variables\obj\Debug\_3.Variables.exe
+D:\MindWorx\C#\3. Variables\obj\Debug\_3.Variables.pdb

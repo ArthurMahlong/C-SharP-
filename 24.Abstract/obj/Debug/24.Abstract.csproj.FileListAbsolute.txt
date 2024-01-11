@@ -1,0 +1,7 @@
+D:\MindWorx\C#\24.Abstract\bin\Debug\24.Abstract.exe.config
+D:\MindWorx\C#\24.Abstract\bin\Debug\24.Abstract.exe
+D:\MindWorx\C#\24.Abstract\bin\Debug\24.Abstract.pdb
+D:\MindWorx\C#\24.Abstract\obj\Debug\24.Abstract.csproj.AssemblyReference.cache
+D:\MindWorx\C#\24.Abstract\obj\Debug\24.Abstract.csproj.CoreCompileInputs.cache
+D:\MindWorx\C#\24.Abstract\obj\Debug\24.Abstract.exe
+D:\MindWorx\C#\24.Abstract\obj\Debug\24.Abstract.pdb

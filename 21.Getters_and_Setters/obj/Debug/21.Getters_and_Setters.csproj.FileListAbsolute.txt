@@ -1,0 +1,7 @@
+D:\MindWorx\C#\21.Getters_and_Setters\bin\Debug\21.Getters_and_Setters.exe.config
+D:\MindWorx\C#\21.Getters_and_Setters\bin\Debug\21.Getters_and_Setters.exe
+D:\MindWorx\C#\21.Getters_and_Setters\bin\Debug\21.Getters_and_Setters.pdb
+D:\MindWorx\C#\21.Getters_and_Setters\obj\Debug\21.Getters_and_Setters.csproj.AssemblyReference.cache
+D:\MindWorx\C#\21.Getters_and_Setters\obj\Debug\21.Getters_and_Setters.csproj.CoreCompileInputs.cache
+D:\MindWorx\C#\21.Getters_and_Setters\obj\Debug\21.Getters_and_Setters.exe
+D:\MindWorx\C#\21.Getters_and_Setters\obj\Debug\21.Getters_and_Setters.pdb

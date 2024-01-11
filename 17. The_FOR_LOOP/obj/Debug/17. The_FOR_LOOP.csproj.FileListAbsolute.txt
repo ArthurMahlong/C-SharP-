@@ -1,0 +1,7 @@
+D:\MindWorx\C#\17. The_FOR_LOOP\bin\Debug\_17.The_FOR_LOOP.exe.config
+D:\MindWorx\C#\17. The_FOR_LOOP\bin\Debug\_17.The_FOR_LOOP.exe
+D:\MindWorx\C#\17. The_FOR_LOOP\bin\Debug\_17.The_FOR_LOOP.pdb
+D:\MindWorx\C#\17. The_FOR_LOOP\obj\Debug\17. The_FOR_LOOP.csproj.AssemblyReference.cache
+D:\MindWorx\C#\17. The_FOR_LOOP\obj\Debug\17. The_FOR_LOOP.csproj.CoreCompileInputs.cache
+D:\MindWorx\C#\17. The_FOR_LOOP\obj\Debug\_17.The_FOR_LOOP.exe
+D:\MindWorx\C#\17. The_FOR_LOOP\obj\Debug\_17.The_FOR_LOOP.pdb

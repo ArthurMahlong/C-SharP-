@@ -1,0 +1,7 @@
+D:\MindWorx\C#\15,Switch_Statements\bin\Debug\15,Switch_Statements.exe.config
+D:\MindWorx\C#\15,Switch_Statements\bin\Debug\15,Switch_Statements.exe
+D:\MindWorx\C#\15,Switch_Statements\bin\Debug\15,Switch_Statements.pdb
+D:\MindWorx\C#\15,Switch_Statements\obj\Debug\15,Switch_Statements.csproj.AssemblyReference.cache
+D:\MindWorx\C#\15,Switch_Statements\obj\Debug\15,Switch_Statements.csproj.CoreCompileInputs.cache
+D:\MindWorx\C#\15,Switch_Statements\obj\Debug\15,Switch_Statements.exe
+D:\MindWorx\C#\15,Switch_Statements\obj\Debug\15,Switch_Statements.pdb

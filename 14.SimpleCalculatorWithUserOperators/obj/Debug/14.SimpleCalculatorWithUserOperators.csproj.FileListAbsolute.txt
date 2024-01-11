@@ -1,0 +1,7 @@
+D:\MindWorx\C#\14.SimpleCalculatorWithUserOperators\bin\Debug\14.SimpleCalculatorWithUserOperators.exe.config
+D:\MindWorx\C#\14.SimpleCalculatorWithUserOperators\bin\Debug\14.SimpleCalculatorWithUserOperators.exe
+D:\MindWorx\C#\14.SimpleCalculatorWithUserOperators\bin\Debug\14.SimpleCalculatorWithUserOperators.pdb
+D:\MindWorx\C#\14.SimpleCalculatorWithUserOperators\obj\Debug\14.SimpleCalculatorWithUserOperators.csproj.AssemblyReference.cache
+D:\MindWorx\C#\14.SimpleCalculatorWithUserOperators\obj\Debug\14.SimpleCalculatorWithUserOperators.csproj.CoreCompileInputs.cache
+D:\MindWorx\C#\14.SimpleCalculatorWithUserOperators\obj\Debug\14.SimpleCalculatorWithUserOperators.exe
+D:\MindWorx\C#\14.SimpleCalculatorWithUserOperators\obj\Debug\14.SimpleCalculatorWithUserOperators.pdb

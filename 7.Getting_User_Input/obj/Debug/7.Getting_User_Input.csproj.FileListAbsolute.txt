@@ -1,0 +1,7 @@
+D:\MindWorx\C#\7.Getting_User_Input\bin\Debug\7.Getting_User_Input.exe.config
+D:\MindWorx\C#\7.Getting_User_Input\bin\Debug\7.Getting_User_Input.exe
+D:\MindWorx\C#\7.Getting_User_Input\bin\Debug\7.Getting_User_Input.pdb
+D:\MindWorx\C#\7.Getting_User_Input\obj\Debug\7.Getting_User_Input.csproj.AssemblyReference.cache
+D:\MindWorx\C#\7.Getting_User_Input\obj\Debug\7.Getting_User_Input.csproj.CoreCompileInputs.cache
+D:\MindWorx\C#\7.Getting_User_Input\obj\Debug\7.Getting_User_Input.exe
+D:\MindWorx\C#\7.Getting_User_Input\obj\Debug\7.Getting_User_Input.pdb

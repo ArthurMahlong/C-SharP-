@@ -1,0 +1,7 @@
+D:\MindWorx\C#\18. Constructors\bin\Debug\_18.Constructors.exe.config
+D:\MindWorx\C#\18. Constructors\bin\Debug\_18.Constructors.exe
+D:\MindWorx\C#\18. Constructors\bin\Debug\_18.Constructors.pdb
+D:\MindWorx\C#\18. Constructors\obj\Debug\18. Constructors.csproj.AssemblyReference.cache
+D:\MindWorx\C#\18. Constructors\obj\Debug\18. Constructors.csproj.CoreCompileInputs.cache
+D:\MindWorx\C#\18. Constructors\obj\Debug\_18.Constructors.exe
+D:\MindWorx\C#\18. Constructors\obj\Debug\_18.Constructors.pdb

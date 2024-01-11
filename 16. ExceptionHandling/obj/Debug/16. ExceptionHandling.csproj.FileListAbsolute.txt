@@ -1,0 +1,7 @@
+D:\MindWorx\C#\16. ExceptionHandling\bin\Debug\_16.ExceptionHandling.exe.config
+D:\MindWorx\C#\16. ExceptionHandling\bin\Debug\_16.ExceptionHandling.exe
+D:\MindWorx\C#\16. ExceptionHandling\bin\Debug\_16.ExceptionHandling.pdb
+D:\MindWorx\C#\16. ExceptionHandling\obj\Debug\16. ExceptionHandling.csproj.AssemblyReference.cache
+D:\MindWorx\C#\16. ExceptionHandling\obj\Debug\16. ExceptionHandling.csproj.CoreCompileInputs.cache
+D:\MindWorx\C#\16. ExceptionHandling\obj\Debug\_16.ExceptionHandling.exe
+D:\MindWorx\C#\16. ExceptionHandling\obj\Debug\_16.ExceptionHandling.pdb

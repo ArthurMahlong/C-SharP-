@@ -1,0 +1,7 @@
+D:\MindWorx\C#\4. Data Types\bin\Debug\_4.Data_Types.exe.config
+D:\MindWorx\C#\4. Data Types\bin\Debug\_4.Data_Types.exe
+D:\MindWorx\C#\4. Data Types\bin\Debug\_4.Data_Types.pdb
+D:\MindWorx\C#\4. Data Types\obj\Debug\4. Data Types.csproj.AssemblyReference.cache
+D:\MindWorx\C#\4. Data Types\obj\Debug\4. Data Types.csproj.CoreCompileInputs.cache
+D:\MindWorx\C#\4. Data Types\obj\Debug\_4.Data_Types.exe
+D:\MindWorx\C#\4. Data Types\obj\Debug\_4.Data_Types.pdb

@@ -1,0 +1,7 @@
+D:\MindWorx\C#\9.Arrays\bin\Debug\9.Arrays.exe.config
+D:\MindWorx\C#\9.Arrays\bin\Debug\9.Arrays.exe
+D:\MindWorx\C#\9.Arrays\bin\Debug\9.Arrays.pdb
+D:\MindWorx\C#\9.Arrays\obj\Debug\9.Arrays.csproj.AssemblyReference.cache
+D:\MindWorx\C#\9.Arrays\obj\Debug\9.Arrays.csproj.CoreCompileInputs.cache
+D:\MindWorx\C#\9.Arrays\obj\Debug\9.Arrays.exe
+D:\MindWorx\C#\9.Arrays\obj\Debug\9.Arrays.pdb

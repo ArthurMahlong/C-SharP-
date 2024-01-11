@@ -1,0 +1,7 @@
+D:\MindWorx\C#\2. Draw a shape\obj\Debug\2. Draw a shape.csproj.AssemblyReference.cache
+D:\MindWorx\C#\2. Draw a shape\obj\Debug\2. Draw a shape.csproj.CoreCompileInputs.cache
+D:\MindWorx\C#\2. Draw a shape\bin\Debug\_2.Draw_a_shape.exe.config
+D:\MindWorx\C#\2. Draw a shape\bin\Debug\_2.Draw_a_shape.exe
+D:\MindWorx\C#\2. Draw a shape\bin\Debug\_2.Draw_a_shape.pdb
+D:\MindWorx\C#\2. Draw a shape\obj\Debug\_2.Draw_a_shape.exe
+D:\MindWorx\C#\2. Draw a shape\obj\Debug\_2.Draw_a_shape.pdb

@@ -1,0 +1,7 @@
+D:\MindWorx\C#\22.Static_Methods_and_Classes\bin\Debug\22.Static_Methods_and_Classes.exe.config
+D:\MindWorx\C#\22.Static_Methods_and_Classes\bin\Debug\22.Static_Methods_and_Classes.exe
+D:\MindWorx\C#\22.Static_Methods_and_Classes\bin\Debug\22.Static_Methods_and_Classes.pdb
+D:\MindWorx\C#\22.Static_Methods_and_Classes\obj\Debug\22.Static_Methods_and_Classes.csproj.AssemblyReference.cache
+D:\MindWorx\C#\22.Static_Methods_and_Classes\obj\Debug\22.Static_Methods_and_Classes.csproj.CoreCompileInputs.cache
+D:\MindWorx\C#\22.Static_Methods_and_Classes\obj\Debug\22.Static_Methods_and_Classes.exe
+D:\MindWorx\C#\22.Static_Methods_and_Classes\obj\Debug\22.Static_Methods_and_Classes.pdb

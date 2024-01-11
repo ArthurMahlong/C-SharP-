@@ -1,0 +1,7 @@
+D:\MindWorx\C#\16.While_Loop\bin\Debug\16.While_Loop.exe.config
+D:\MindWorx\C#\16.While_Loop\bin\Debug\16.While_Loop.exe
+D:\MindWorx\C#\16.While_Loop\bin\Debug\16.While_Loop.pdb
+D:\MindWorx\C#\16.While_Loop\obj\Debug\16.While_Loop.csproj.AssemblyReference.cache
+D:\MindWorx\C#\16.While_Loop\obj\Debug\16.While_Loop.csproj.CoreCompileInputs.cache
+D:\MindWorx\C#\16.While_Loop\obj\Debug\16.While_Loop.exe
+D:\MindWorx\C#\16.While_Loop\obj\Debug\16.While_Loop.pdb

@@ -1,0 +1,7 @@
+D:\MindWorx\C#\22.Static_Attribute\bin\Debug\22.Static_Attribute.exe.config
+D:\MindWorx\C#\22.Static_Attribute\bin\Debug\22.Static_Attribute.exe
+D:\MindWorx\C#\22.Static_Attribute\bin\Debug\22.Static_Attribute.pdb
+D:\MindWorx\C#\22.Static_Attribute\obj\Debug\22.Static_Attribute.csproj.AssemblyReference.cache
+D:\MindWorx\C#\22.Static_Attribute\obj\Debug\22.Static_Attribute.csproj.CoreCompileInputs.cache
+D:\MindWorx\C#\22.Static_Attribute\obj\Debug\22.Static_Attribute.exe
+D:\MindWorx\C#\22.Static_Attribute\obj\Debug\22.Static_Attribute.pdb

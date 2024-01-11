@@ -1,0 +1,7 @@
+D:\MindWorx\C#\19. Class Methods\bin\Debug\_19.Class_Methods.exe.config
+D:\MindWorx\C#\19. Class Methods\bin\Debug\_19.Class_Methods.exe
+D:\MindWorx\C#\19. Class Methods\bin\Debug\_19.Class_Methods.pdb
+D:\MindWorx\C#\19. Class Methods\obj\Debug\19. Class Methods.csproj.AssemblyReference.cache
+D:\MindWorx\C#\19. Class Methods\obj\Debug\19. Class Methods.csproj.CoreCompileInputs.cache
+D:\MindWorx\C#\19. Class Methods\obj\Debug\_19.Class_Methods.exe
+D:\MindWorx\C#\19. Class Methods\obj\Debug\_19.Class_Methods.pdb

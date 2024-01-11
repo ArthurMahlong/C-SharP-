@@ -1,0 +1,7 @@
+D:\MindWorx\C#\8.Building_a_Calculator\bin\Debug\8.Building_a_Calculator.exe.config
+D:\MindWorx\C#\8.Building_a_Calculator\bin\Debug\8.Building_a_Calculator.exe
+D:\MindWorx\C#\8.Building_a_Calculator\bin\Debug\8.Building_a_Calculator.pdb
+D:\MindWorx\C#\8.Building_a_Calculator\obj\Debug\8.Building_a_Calculator.csproj.AssemblyReference.cache
+D:\MindWorx\C#\8.Building_a_Calculator\obj\Debug\8.Building_a_Calculator.csproj.CoreCompileInputs.cache
+D:\MindWorx\C#\8.Building_a_Calculator\obj\Debug\8.Building_a_Calculator.exe
+D:\MindWorx\C#\8.Building_a_Calculator\obj\Debug\8.Building_a_Calculator.pdb
